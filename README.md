@@ -1,11 +1,11 @@
 # py-exercises
 
-This is a exercises list for my students or anyone that wants to pratice programming Python. I don't completly advise it for complete begginers because there is not lots of directions or explanations. The difficulty level will progress for each day of exercise.
+This is an exercise repository for my students or anyone that wants to pratice programming in Python 3. I don't recommend it for complete begginers because there is not a lot of directions or explanations, just some hints. The difficult level will progress as the day of the exercise goes.
 
-There are some steps that you can take to ensure some or complete success on doing this exercises, which are:
+There are some steps that you can take to ensure some or have complete success on doing the exercises, which are:
 
-* Cloning this repository as general direction and to grab new exercises updates.
-* Making a new repo of your own to store your progression and pratice interacting with github.
+* Cloning this repository as general directions and to grab new exercises updates on your machine.
+* Making a new repo of your own to store your progression, have github activity and pratice interacting with github.
 
 ### Week 01 - Data types and decision making
 #### Data Types
@@ -19,4 +19,8 @@ There are some steps that you can take to ensure some or complete success on doi
 * if
 * if else
 * if elif else
+* Ternary Operators
 * Nested Conditions
+
+#### Weekend Challenge
+* All together!

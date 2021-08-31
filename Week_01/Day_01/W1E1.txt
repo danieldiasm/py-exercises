@@ -1,24 +1,25 @@
 This is your first excercise in this series, and because of it we'll start it 
-easy just to first remember or pratice some concepts.
+easy, first just remembering or praticing some concepts.
 
-Remember, this is NOT a excercise list for COMPLETE begginers, only begginers,
+Remember, this is NOT an excercise list for COMPLETE begginers, only begginers,
 so, if you can't do it, go back two squares...
 
 Proposal:
 
 Make a program that:
-1 - Greets you 
-2 - Asks your name and age
-3 - Put this info in suggestive named variables like user_name user_age.
+1 - Greets the user.
+2 - Asks user's name and age.
+3 - Put this info in variable named with suggestive tiles like user_name, user_age.
 
-After that... 
+After that...
 
-4 - Print it back with some nice phrase.
-    But, there is more on it!
+4 - Print it with some nice phrase.
+    But wait! There is more!
 
-    4.1 - if this person is younger than 18, it may say something like "Too young!".
+    4.1 - [if] this person is younger than 18, it may say something like "Too young!".
+           otherwise it ignores this condition (don't use else yet).
 
-5 - At the end just say goodbye calling it by its name.
+5 - At the end just say goodbye calling the user by his name.
 
 I'll give you some hints:
 
@@ -26,4 +27,4 @@ print()
 input()
 if(somecondition):
 
-Hard part on this: Make simple variable names and organize the code propperly.
+ - Hard part on this: Make simple variable names and organize the code propperly.
