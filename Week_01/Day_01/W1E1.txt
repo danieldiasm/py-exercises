@@ -1,0 +1,35 @@
+This is your first excercise in this series, and because of it we'll start it 
+easy just to first remember or pratice some concepts.
+
+Remember, this is NOT a excercise list for COMPLETE begginers, only begginers,
+so, if you can't do it, go back two squares...
+
+Proposal:
+
+Make a program that:
+1 - Greets you 
+2 - asks your name and age
+3 - Put this info in a dictionary in format key:value as 'name':age.
+
+After that... 
+
+4 - Print it back with some nice phrase.
+    But, there is more on it!
+
+    4.1 - if this person is younger than 18, it may say something like "Too young!".
+
+    4.2 - elif this person is older than 18 but younger than 30 says "Let's bounce!".
+
+    4.3 - else make it say "Meh...".
+
+5 - At the end just say goodbye calling it by its name.
+
+I'll give you some hints:
+
+print()
+input()
+
+some_dict = {}
+some_dict[key] = 'value'
+
+Hard part on this: Print the key value on the print.

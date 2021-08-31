@@ -1,2 +1,3 @@
-# py-excercises
-This is a excercises list for my students or anyone that wants to pratice begginer level of Python
+# py-exercises
+
+This is a exercises list for my students or anyone that wants to pratice begginer level of Python
